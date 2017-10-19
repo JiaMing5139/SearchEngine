@@ -1,0 +1,3 @@
+pagelib data/pagelib.dat
+offsetlib data/offsetlib.dat
+stopword /home/pjm/cppjieba/dict/stop_words.utf8
