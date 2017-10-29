@@ -1,3 +1,3 @@
 # SearchEngine
 
-¸öÈËÑ§Ï°
+g++ *.c -std=c++11 -lpthread -ljson
