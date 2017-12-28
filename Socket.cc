@@ -1,8 +1,4 @@
- ///
- /// @file    Socket.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-22 11:32:44
- ///
+
  
 #include "Socket.h"
 #include "InetAddress.h"
