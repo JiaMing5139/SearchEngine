@@ -1,8 +1,4 @@
- ///
- /// @file    TcpServer.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-24 10:28:34
- ///
+
  
 #include "TcpServer.h"
 #include <iostream>
