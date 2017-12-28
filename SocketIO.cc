@@ -1,8 +1,4 @@
- ///
- /// @file    SocketIO.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-23 10:01:14
- ///
+
  
 #include "SocketIO.h"
 #include <stdio.h>
