@@ -1,8 +1,4 @@
- ///
- /// @file    TcpConnection.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-23 11:20:09
- ///
+
  
 #include "TcpConnection.h"
 #include "EpollPoller.h"
