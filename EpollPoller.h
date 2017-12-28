@@ -1,8 +1,4 @@
- ///
- /// @file    EpollPoller.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-23 15:23:48
- ///
+
 #ifndef __MY_EPOLLPOLLER_H_
 #define __MY_EPOLLPOLLER_H_
 #include "Noncopyable.h"
