@@ -1,8 +1,4 @@
- ///
- /// @file    TcpConnection.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-23 11:15:40
- ///
+
  
 #ifndef _MY_TCPCONNECTION_H_
 #define _MY_TCPCONNECTION_H_
