@@ -1,8 +1,4 @@
- ///
- /// @file    Condition.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-18 15:02:04
- ///
+
 #ifndef __MY_CONDITION_H_
 #define __MY_CONDITION_H_
 
