@@ -1,8 +1,4 @@
- ///
- /// @file    SocketIO.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-23 09:54:51
- ///
+
 #ifndef __MY_SOCKETIO_H_
 #define __MY_SOCKETIO_H_
 
