@@ -1,8 +1,4 @@
- ///
- /// @file    Buffer.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-18 15:13:00
- ///
+
  
 #include "Buffer.h"
 
