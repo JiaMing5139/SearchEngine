@@ -1,8 +1,4 @@
- ///
- /// @file    Threadpool.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-19 10:18:25
- ///
+
  
 #ifndef _MY_THREADPOOL_H_
 #define _MY_THREADPOOL_H_
