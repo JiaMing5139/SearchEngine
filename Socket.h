@@ -1,8 +1,4 @@
- ///
- /// @file    Socket.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-22 11:27:57
- ///
+
  
 #ifndef _MY_SOCKET_H_
 #define _MY_SOCKET_H_
