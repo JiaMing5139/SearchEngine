@@ -1,8 +1,4 @@
- ///
- /// @file    MutexLock.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-18 14:54:36
- ///
+
 #ifndef __MY_MUTEXLOCK_H_
 #define __MY_MUTEXLOCK_H_
 
