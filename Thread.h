@@ -1,8 +1,4 @@
- ///
- /// @file    Thread.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-18 11:06:13
- ///
+
  
 #ifndef __MY_THREAD_H_
 #define __MY_THREAD_H_
