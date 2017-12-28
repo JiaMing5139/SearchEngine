@@ -1,8 +1,4 @@
- ///
- /// @file    InetAddress.cc
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-22 11:02:17
- ///
+
  
 #include "InetAddress.h"
 
