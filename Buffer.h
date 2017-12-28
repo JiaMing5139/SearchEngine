@@ -1,8 +1,4 @@
- ///
- /// @file    Buffer.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-18 15:09:17
- ///
+
  
 #ifndef __MY_BUFFER_H_
 #define __MY_BUFFER_H_
