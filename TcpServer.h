@@ -1,8 +1,4 @@
- ///
- /// @file    TcpServer.h
- /// @author  lemon(haohb13@gmail.com)
- /// @date    2016-03-24 10:22:29
- ///
+
  
 #ifndef __MY_TCPSERVER_H_
 #define __MY_TCPSERVER_H_
